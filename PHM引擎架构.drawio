@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T02:21:39.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="A9pCOU_iQ9_Fl_mp71tp" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T02:25:05.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tDyd9lPbzNQN8T4zzj96" version="21.6.5" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
-    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
         <mxCell id="xje8AcLzM2Cwt4pIRlGJ-5" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="680" width="318" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="xje8AcLzM2Cwt4pIRlGJ-6" value="DataWarehouse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="xje8AcLzM2Cwt4pIRlGJ-6" value="DataLake &amp;amp;&amp;amp; DataHouse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="640" width="318" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8iqwavOWnaG6EEk22vyG-37" value="诊断专家" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ae4132;fillColor=#fff5f5;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
@@ -1396,6 +1396,19 @@
         </mxCell>
         <mxCell id="_9CRFVmK5PNanfXCgi6S-2" value="案例" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cce5ff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2347.5" y="1164" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CRFVmK5PNanfXCgi6S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8Mg5uC-S_DPAPDu5Cyg-57" target="R8Mg5uC-S_DPAPDu5Cyg-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="1160" />
+              <mxPoint x="1360" y="2024" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9CRFVmK5PNanfXCgi6S-4" value="通知报警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=90;" vertex="1" connectable="0" parent="_9CRFVmK5PNanfXCgi6S-3">
+          <mxGeometry x="-0.1272" y="-3" relative="1" as="geometry">
+            <mxPoint x="15" y="-15" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
