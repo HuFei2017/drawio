@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T08:01:11.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="72zJ5aiRBKZgu9Hn-SvM" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T12:01:45.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EYgGT-PBkjSIFAdwjUEO" version="21.6.5" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
     <mxGraphModel dx="2206" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1788,6 +1788,15 @@
         </mxCell>
         <mxCell id="_9CRFVmK5PNanfXCgi6S-225" value="算法工厂" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fontColor=#3399FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="4920" width="1770" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CRFVmK5PNanfXCgi6S-226" value="算法开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="126.5" y="5010" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CRFVmK5PNanfXCgi6S-227" value="算法训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="464" y="5010" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_9CRFVmK5PNanfXCgi6S-228" value="算法上线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="800" y="5010" width="290" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
