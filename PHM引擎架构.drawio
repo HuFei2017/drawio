@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T02:25:05.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tDyd9lPbzNQN8T4zzj96" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T02:25:11.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="0h6SwY5jIxLkvOrnO-YQ" version="21.6.5" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
     <mxGraphModel dx="1912" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1407,7 +1407,7 @@
         </mxCell>
         <mxCell id="_9CRFVmK5PNanfXCgi6S-4" value="通知报警" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;rotation=90;" vertex="1" connectable="0" parent="_9CRFVmK5PNanfXCgi6S-3">
           <mxGeometry x="-0.1272" y="-3" relative="1" as="geometry">
-            <mxPoint x="15" y="-15" as="offset" />
+            <mxPoint x="15" y="75" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
