@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T08:54:45.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="B6W-jKREKz1w45rqn2fr" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T09:00:02.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NQpsluRM4WUd8rw-iLG2" version="21.6.6" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
     <mxGraphModel dx="2390" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2055,6 +2055,30 @@
         </mxCell>
         <mxCell id="GJN9DxurDsaOC69GI6EG-101" value="PaaS应用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fontColor=#3399FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="118" y="4800" width="1770" height="135.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-102" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="136" y="4830" width="954" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-103" value="知识录入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="153" y="4870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-104" value="知识推理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-105" value="知识计算" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="548" y="4870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-106" value="知识表达" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="745" y="4870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-107" value="知识应用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="942.1700000000001" y="4870" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-108" value="模型库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=middle;fillColor=#A9C4EB;strokeColor=#6c8ebf;fillStyle=cross-hatch;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="4830" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-109" value="通用工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=middle;fillColor=#A9C4EB;strokeColor=#6c8ebf;fillStyle=cross-hatch;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="4830" width="375" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
