@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T03:16:50.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DNT3ZU-vqvWWsK3iQ2Hk" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T03:17:50.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="F79hNB-nLbpSmnsdUc1z" version="21.6.6" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
     <mxGraphModel dx="1793" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1797,7 +1797,7 @@
         </mxCell>
         <mxCell id="GJN9DxurDsaOC69GI6EG-67" value="logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="GJN9DxurDsaOC69GI6EG-64">
           <mxGeometry x="-0.7628" y="6" relative="1" as="geometry">
-            <mxPoint x="7" y="-276" as="offset" />
+            <mxPoint x="7" y="-315" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GJN9DxurDsaOC69GI6EG-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF9999;strokeWidth=2;" edge="1" parent="1" source="_9CRFVmK5PNanfXCgi6S-158" target="_9CRFVmK5PNanfXCgi6S-204">
@@ -1810,7 +1810,7 @@
         </mxCell>
         <mxCell id="GJN9DxurDsaOC69GI6EG-66" value="metrics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="GJN9DxurDsaOC69GI6EG-65">
           <mxGeometry x="-0.7291" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="-42" as="offset" />
+            <mxPoint x="3" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_9CRFVmK5PNanfXCgi6S-158" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -1971,6 +1971,12 @@
         </mxCell>
         <mxCell id="_9CRFVmK5PNanfXCgi6S-218" value="熔断保护" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2092" y="5585" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GJN9DxurDsaOC69GI6EG-70" value="" style="shape=flexArrow;endArrow=none;startArrow=classic;html=1;rounded=0;width=10.434782608695652;startSize=3.909090909090909;endWidth=11.702479338842975;endSize=5.591304347826086;startWidth=11.702479338842975;fillColor=#99CCFF;strokeColor=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2079.38" y="5235" as="sourcePoint" />
+            <mxPoint x="2079.38" y="5145" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
