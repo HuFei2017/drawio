@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T03:19:31.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7XvwIKwxEAj_oVzf3W_n" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T03:22:13.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QtG-SHForQ2isvv0CfLg" version="21.6.6" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
     <mxGraphModel dx="1593" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2639,6 +2639,20 @@
         <mxCell id="bNcP5964MZi6SKhfUAa4-148" value="算法、模型、规则等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;fontSize=16;" parent="bNcP5964MZi6SKhfUAa4-147" vertex="1" connectable="0">
           <mxGeometry x="0.6469" y="18" relative="1" as="geometry">
             <mxPoint x="1" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiiu0N1cQtihKBql2Mfk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#FF8000;" edge="1" parent="1" source="bNcP5964MZi6SKhfUAa4-26" target="aiiu0N1cQtihKBql2Mfk-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1780" y="7980" />
+              <mxPoint x="1780" y="8330" />
+              <mxPoint x="1800" y="8330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiiu0N1cQtihKBql2Mfk-11" value="算法多版本选择" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF8000;" vertex="1" connectable="0" parent="aiiu0N1cQtihKBql2Mfk-10">
+          <mxGeometry x="0.8237" y="5" relative="1" as="geometry">
+            <mxPoint x="36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bNcP5964MZi6SKhfUAa4-26" value="算法管理" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" parent="1" vertex="1">
