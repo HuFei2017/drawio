@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T06:35:46.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ktKgOKVVpx__fNKMK1m6" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T01:46:15.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="pIJZNDZVGOaLHqNV5qbb" version="21.6.8" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
-    <mxGraphModel dx="2206" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3776,6 +3776,9 @@
         </mxCell>
         <mxCell id="jEMcJd9seaLm5VdW92j8-27" value="任务终止" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="12160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jEMcJd9seaLm5VdW92j8-48" value="算力平台模块流转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10000" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
