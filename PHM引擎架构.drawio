@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T03:37:48.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2qnUHv2Kk1y5CLDQ_oDS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T03:38:12.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZcdMxU9EURlQ8rXshCDI" version="21.6.8" type="github">
   <diagram id="RVzZDtWNUNFmJ-vqJvkg" name="第 1 页">
-    <mxGraphModel dx="1304" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jEMcJd9seaLm5VdW92j8-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#007FFF;" edge="1" parent="1" source="jEMcJd9seaLm5VdW92j8-128" target="jEMcJd9seaLm5VdW92j8-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jEMcJd9seaLm5VdW92j8-245" value="应用入队&lt;br style=&quot;font-size: 16px;&quot;&gt;等待执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#007FFF;" vertex="1" connectable="0" parent="jEMcJd9seaLm5VdW92j8-244">
+          <mxGeometry x="0.4385" y="7" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jEMcJd9seaLm5VdW92j8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#FF8000;" edge="1" parent="1" source="JAV5f9iiWfjTwd4AVbht-72" target="JAV5f9iiWfjTwd4AVbht-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3998,14 +4006,6 @@
         </mxCell>
         <mxCell id="jEMcJd9seaLm5VdW92j8-123" value="并发配置" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2519.75" y="10760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jEMcJd9seaLm5VdW92j8-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;strokeColor=#007FFF;" edge="1" parent="1" source="jEMcJd9seaLm5VdW92j8-128" target="jEMcJd9seaLm5VdW92j8-219">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jEMcJd9seaLm5VdW92j8-245" value="应用入队&lt;br style=&quot;font-size: 16px;&quot;&gt;等待执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#007FFF;" vertex="1" connectable="0" parent="jEMcJd9seaLm5VdW92j8-244">
-          <mxGeometry x="0.4385" y="7" relative="1" as="geometry">
-            <mxPoint y="8" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jEMcJd9seaLm5VdW92j8-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;strokeColor=#007FFF;" edge="1" parent="1" source="jEMcJd9seaLm5VdW92j8-210" target="jEMcJd9seaLm5VdW92j8-137">
           <mxGeometry relative="1" as="geometry">
