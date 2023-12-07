@@ -1,0 +1,337 @@
+<mxfile host="Electron" modified="2023-10-12T07:56:13.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.8.2 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="g83zCSRTeTYLHPYq5JsH" version="21.8.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1050" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-8" target="SVEEx_8I_eyS03GqgsXL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-4">
+          <mxGeometry x="-0.04" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-3" target="SVEEx_8I_eyS03GqgsXL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-3" value="生成目标目录&lt;br&gt;绝对路径" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-8" target="SVEEx_8I_eyS03GqgsXL-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="80" />
+              <mxPoint x="10" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-90" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-12">
+          <mxGeometry x="-0.9737" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-8" value="目标目录名称&lt;br&gt;是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="40" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-9" target="SVEEx_8I_eyS03GqgsXL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-16">
+          <mxGeometry x="-0.34" y="-4" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-9" value="目标目录路径&lt;br&gt;是否已存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="240" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-13" target="SVEEx_8I_eyS03GqgsXL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-13" value="查找目录路径&lt;br&gt;运行的进程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-14" target="SVEEx_8I_eyS03GqgsXL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-14" value="停止当前进程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-15" target="SVEEx_8I_eyS03GqgsXL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-18">
+          <mxGeometry x="-0.712" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-15" target="SVEEx_8I_eyS03GqgsXL-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="465" />
+              <mxPoint x="180" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-24">
+          <mxGeometry x="-0.82" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-15" value="进程是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-22" target="SVEEx_8I_eyS03GqgsXL-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="660" />
+              <mxPoint x="210" y="660" />
+              <mxPoint x="210" y="20" />
+              <mxPoint x="300" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-22" value="查找目录路径&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;正在使用的端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-26" target="SVEEx_8I_eyS03GqgsXL-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-28">
+          <mxGeometry x="0.248" y="2" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-26" target="SVEEx_8I_eyS03GqgsXL-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="65" />
+              <mxPoint x="390" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-34" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-33">
+          <mxGeometry x="-0.868" y="2" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-26" value="端口号&lt;br&gt;是否已记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-27" target="SVEEx_8I_eyS03GqgsXL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-27" value="缓存目录路径&lt;br&gt;绑定使用的端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-31" target="SVEEx_8I_eyS03GqgsXL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-31" value="删除目录路径&lt;br&gt;等待重建" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-35" target="SVEEx_8I_eyS03GqgsXL-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-35" value="拷贝tomcat项目&lt;br&gt;模板文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-39" target="SVEEx_8I_eyS03GqgsXL-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-42" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-41">
+          <mxGeometry x="-0.6467" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-39" target="SVEEx_8I_eyS03GqgsXL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-51" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-47">
+          <mxGeometry x="-0.84" y="-2" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-39" value="服务端口号&lt;br&gt;是否已指定" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-40" target="SVEEx_8I_eyS03GqgsXL-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-40" value="从port.txt文件中&lt;br&gt;获取可用的端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-43" target="SVEEx_8I_eyS03GqgsXL-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-43" value="指定服务&lt;br&gt;当前的端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-45" target="SVEEx_8I_eyS03GqgsXL-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="660" />
+              <mxPoint x="510" y="660" />
+              <mxPoint x="510" y="20" />
+              <mxPoint x="620" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-45" value="在readme.md文件中&lt;br&gt;记录当前服务端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-48" target="SVEEx_8I_eyS03GqgsXL-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-48" value="修改service.json&lt;br&gt;指定当前服务目录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-49" target="SVEEx_8I_eyS03GqgsXL-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-49" value="修改sysconfig.properties&lt;br&gt;指定当前服务目录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-54" target="SVEEx_8I_eyS03GqgsXL-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-54" value="还原之前的&lt;br&gt;workflow配置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-55" target="SVEEx_8I_eyS03GqgsXL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-58" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-57">
+          <mxGeometry x="-0.352" relative="1" as="geometry">
+            <mxPoint x="10" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-55" target="SVEEx_8I_eyS03GqgsXL-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="240" />
+              <mxPoint x="710" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-80" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-79">
+          <mxGeometry x="-0.8776" y="-2" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-55" value="之前是否存在&lt;br&gt;workflow配置" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="200" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-59" target="SVEEx_8I_eyS03GqgsXL-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-59" value="修改tomcat绑定的&lt;br&gt;服务目录+端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-61" target="SVEEx_8I_eyS03GqgsXL-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-65" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-64">
+          <mxGeometry x="-0.712" y="2" relative="1" as="geometry">
+            <mxPoint x="8" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-61" target="SVEEx_8I_eyS03GqgsXL-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-69" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SVEEx_8I_eyS03GqgsXL-68">
+          <mxGeometry x="0.3108" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-132" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-61" value="目标语种&lt;br&gt;是否有效" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="490" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-63" target="SVEEx_8I_eyS03GqgsXL-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="660" />
+              <mxPoint x="740" y="660" />
+              <mxPoint x="740" y="20" />
+              <mxPoint x="860" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-63" value="修改tomcat绑定的&lt;br&gt;服务目录+端口号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-71" target="SVEEx_8I_eyS03GqgsXL-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-71" value="校正服务类型名称&lt;br&gt;rec -&amp;gt; sec" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-73" target="SVEEx_8I_eyS03GqgsXL-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-73" value="从制品库中&lt;br&gt;下载服务部署资源包" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-75" target="SVEEx_8I_eyS03GqgsXL-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-75" value="解压资源包&lt;br&gt;资源从临时目录移动到服务目录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="765" y="200" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-77" target="SVEEx_8I_eyS03GqgsXL-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-77" value="更新workflow配置&lt;br&gt;调整JVM内存大小" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-81" target="SVEEx_8I_eyS03GqgsXL-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-81" value="执行tomcat启动命令&lt;br&gt;startup.sh" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-82" target="SVEEx_8I_eyS03GqgsXL-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-82" value="等待服务完成启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-83" target="SVEEx_8I_eyS03GqgsXL-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-83" value="实时查看启动日志" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-87" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="720" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-94" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="-60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-91" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=12;strokeColor=#FFB570;fontColor=#000000;" vertex="1" parent="SVEEx_8I_eyS03GqgsXL-94">
+          <mxGeometry x="15" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-93" value="开始" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SVEEx_8I_eyS03GqgsXL-94">
+          <mxGeometry y="20" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SVEEx_8I_eyS03GqgsXL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SVEEx_8I_eyS03GqgsXL-93" target="SVEEx_8I_eyS03GqgsXL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
